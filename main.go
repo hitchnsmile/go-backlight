@@ -1,3 +1,6 @@
+// +build linux
+// +build 386
+
 package main
 
 import (
